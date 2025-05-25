@@ -13,8 +13,8 @@ This project implements a multi-agent system designed to provide users with pers
 ### Steps
 1.  **Clone the Repository:**
     ```bash
-    git clone <your-repository-url>
-    cd <your-repository-name>
+    git clone (https://github.com/arkadaz/assignment_CJ.git)
+    cd assignment_CJ
     ```
 
 2.  **Create an Environment File:**
